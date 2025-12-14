@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Welcome to my Paper World!</title>
-    <link>http://localhost:1313/</link>
+    <link>https://modernsocrate.github.io/</link>
     <description>Recent content on Welcome to my Paper World!</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Dec 2025 12:41:24 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://modernsocrate.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coding Adventures</title>
-      <link>http://localhost:1313/posts/codingadventures/</link>
+      <link>https://modernsocrate.github.io/posts/codingadventures/</link>
       <pubDate>Sun, 14 Dec 2025 12:41:24 +0200</pubDate>
-      <guid>http://localhost:1313/posts/codingadventures/</guid>
+      <guid>https://modernsocrate.github.io/posts/codingadventures/</guid>
       <description>&lt;p&gt;Welcome to my Planet,
 Today we gonna code some stuff.&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;VilniusTech&#34; loading=&#34;lazy&#34; src=&#34;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh1rbaQ25gpWGaHa2BXwzKrBFEliCx3tR3gw&amp;s&#34;&gt;&lt;/p&gt;
@@ -29,9 +29,9 @@ Today we gonna code some stuff.&lt;/p&gt;
     </item>
     <item>
       <title>Second Page</title>
-      <link>http://localhost:1313/posts/secondpage/</link>
+      <link>https://modernsocrate.github.io/posts/secondpage/</link>
       <pubDate>Sun, 14 Dec 2025 12:17:13 +0200</pubDate>
-      <guid>http://localhost:1313/posts/secondpage/</guid>
+      <guid>https://modernsocrate.github.io/posts/secondpage/</guid>
       <description>&lt;p&gt;Will you stop yapping, man?
 I AM THE ONE WHO KNOCKS!&lt;/p&gt;</description>
     </item>
